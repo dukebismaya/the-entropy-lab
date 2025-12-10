@@ -1,0 +1,35 @@
+{
+  "id": "chrome-blade",
+  "title": "Chrome Blade Mk.II",
+  "author": {
+    "id": "netrunner",
+    "name": "NetRunner",
+    "avatar": "https://picsum.photos/seed/netrunner/64/64"
+  },
+  "description": "High-frequency katana with customizable neon resonance colors and combo finishers.",
+  "longDescription": "Chrome Blade Mk.II rebuilds the legendary monoknife with phase-edge tech, bespoke attacks, and color-calibrated trails. The package includes CET toggles, custom sound layers, and upgrade materials so players can integrate it with existing save files instantly.",
+  "version": "2.0.0",
+  "gameVersion": "2.02",
+  "downloads": 189021,
+  "rating": 4.8,
+  "tags": ["Weapons", "Cosmetic"],
+  "dependencies": ["REDmod"],
+  "fileSize": "32 MB",
+  "uploadedDate": "2025-11-01",
+  "sha256": "d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+  "previewImage": "preview.svg",
+  "featureShots": [
+    "shots/chrome-1.svg",
+    "shots/chrome-2.svg"
+  ],
+  "featureList": [
+    "Six-step combo tree with optional phase finisher",
+    "Neon resonance coloration tied to equipped cyberware",
+    "Integrated CET panel for damage curve tuning"
+  ],
+  "archiveFile": "chrome-blade.zip",
+  "files": [
+    "mods/chrome_blade.archive",
+    "bin/x64/plugins/cyber_engine_tweaks/mods/chrome-blade.lua"
+  ]
+}

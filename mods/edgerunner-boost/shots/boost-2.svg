@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#030712" />
+  <g stroke="#ff3dd1" stroke-width="8" fill="none">
+    <path d="M120 550 C 300 200, 900 200, 1080 550" />
+    <circle cx="600" cy="260" r="150" />
+  </g>
+  <text x="50%" y="85%" text-anchor="middle" font-family="Orbitron" font-size="44" fill="#00e6ff">
+    Wall-Run Trajectory
+  </text>
+</svg>

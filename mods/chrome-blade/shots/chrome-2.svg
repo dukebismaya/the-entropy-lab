@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#0a0d16" />
+  <circle cx="600" cy="340" r="220" stroke="#ff3dd1" stroke-width="12" fill="none" />
+  <circle cx="600" cy="340" r="140" stroke="#00e6ff" stroke-width="8" fill="none" />
+  <text x="50%" y="80%" text-anchor="middle" font-family="Orbitron" font-size="38" fill="#9b5cff">
+    Neon Resonance Mode
+  </text>
+</svg>

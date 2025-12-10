@@ -1,0 +1,36 @@
+{
+  "id": "edgerunner-boost",
+  "title": "Edgerunner Boost Pack",
+  "author": {
+    "id": "aurora",
+    "name": "AuroraWave",
+    "avatar": "https://picsum.photos/seed/aurora/64/64"
+  },
+  "description": "Advanced movement suite with dash injectors, wall-runs, and neon particle trails.",
+  "longDescription": "Slip into any chase with the Edgerunner Boost Pack. This mobility-focused collection adds configurable boosters, air-dodge rewrites, and cinematic neon trails that adapt to your movement speed. Every ability ships with CET toggles, REDscript hooks, and controller-friendly presets.",
+  "version": "1.3.2",
+  "gameVersion": "2.02",
+  "downloads": 32458,
+  "rating": 4.9,
+  "tags": ["Featured", "Mobility", "Gameplay"],
+  "dependencies": ["REDscript >= 0.5", "CET >= 1.33"],
+  "fileSize": "48 MB",
+  "uploadedDate": "2025-10-05",
+  "sha256": "ed0fa4c7d79e1350e65b613bf3fa9d977f0ca0d000000000000000000000000",
+  "previewImage": "preview.svg",
+  "featureShots": [
+    "shots/boost-1.svg",
+    "shots/boost-2.svg"
+  ],
+  "featureList": [
+    "Toggleable burst-sprint that consumes adaptive stamina",
+    "Wall-run assist with magnetized path prediction",
+    "Chromatic particle trails that recolor per installed cyberware"
+  ],
+  "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+  "archiveFile": "edgerunner-boost.zip",
+  "files": [
+    "r6/scripts/edgerunner_boost.reds",
+    "bin/x64/plugins/cyber_engine_tweaks/mods/edgerunner_boost.lua"
+  ]
+}
